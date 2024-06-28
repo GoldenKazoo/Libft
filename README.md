@@ -3,7 +3,7 @@ This project is my 1st project at 42School.
 It about coding a C library.
 It will contain a lot of general purpose functions my programs will rely upon.
 ### Mandatory part
-• isalpha 
+* isalpha 
 • toupper 
 • memcpy 
 • isdigit 
