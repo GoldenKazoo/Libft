@@ -39,4 +39,12 @@ It will contain a lot of general purpose functions my programs will rely upon.
 - putnbr_fd
 
 ## Bonus part
-• lstnew • stadd_front • lstsize • lstlast • lstadd_back • lstdelone • lstclear • lstiter • lstmap
+- lstnew
+- stadd_front
+- lstsize
+- lstlast
+- lstadd_back
+- lstdelone
+- lstclear
+- lstiter
+- lstmap
